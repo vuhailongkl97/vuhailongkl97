@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @vuhailongkl97
+- 👀 I’m interested in embedded programming
