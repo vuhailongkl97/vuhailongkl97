@@ -1,7 +1,7 @@
 👋 Hi, I’m @vuhailongkl97  
-👀 I’m interested in embedded programming  
+
 ## About
-* An software engineer in embedded Linux and MCU programming.
+* An software engineer.  
  Programming languages: C/C++ ,Python, Bash.  
  
 ## Interests
