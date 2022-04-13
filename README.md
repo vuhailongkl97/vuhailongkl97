@@ -1,7 +1,7 @@
 👋 Hi, I’m @vuhailongkl97  
 
 ## About
-* An software engineer.  
+* A software engineer.  
  Programming languages: C/C++ ,Python, Bash.  
  
 ## Interests
