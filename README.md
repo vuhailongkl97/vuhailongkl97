@@ -2,7 +2,7 @@
 
 ## About
 * A software engineer.  
- Programming languages: C/C++ ,Python, Bash.  
+ Programming languages: C/C++ ,Python, Go.
  
 ## Interests
 * Learn about using new tools and script for works effectively, new technology: opencv, networking, IoT,..
