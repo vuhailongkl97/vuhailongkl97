@@ -9,5 +9,5 @@
 
 ## Contact
 [My linked-in](https://www.linkedin.com/in/longkl97/)  
-[My Blog](https://vuhailongkl97.github.io/blog/) (updating)
+[My Blog](https://vuhailongkl97.github.io/) (updating)
 
